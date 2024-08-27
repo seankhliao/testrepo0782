@@ -1,6 +1,6 @@
 module go.seankhliao.com/testrepo0782
 
-go 1.24
+go 1.23.0
 
 retract (
     v1.0.1

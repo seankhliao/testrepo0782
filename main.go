@@ -1,3 +1,3 @@
 package testrepo0782
 
-var V = 5
+var V = 6
